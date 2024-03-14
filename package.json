@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "this is test server",
+  "main": "server.cjs",
+  "author": "Sourabh Jana",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
